@@ -176,5 +176,30 @@ namespace metej_stepper_control
         {
             serialPort.WriteLine("t" + ((int)numericUpDown1.Value).ToString());
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            serialPort.WriteLine("r");
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            serialPort.WriteLine("l");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            serialPort.WriteLine("s");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            serialPort.WriteLine("d");
+        }
+
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e)
+        {
+            serialPort.WriteLine("q" + ((int)numericUpDown1.Value).ToString());
+        }
     }
 }

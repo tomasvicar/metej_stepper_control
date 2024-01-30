@@ -12,7 +12,6 @@ D:\metej_stepper_control\metej_stepper_control\bin\Release\net6.0-windows\runtim
 D:\metej_stepper_control\metej_stepper_control\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
 D:\metej_stepper_control\metej_stepper_control\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.csproj.AssemblyReference.cache
-D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.Form1.resources
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.csproj.GenerateResource.cache
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.GeneratedMSBuildEditorConfig.editorconfig
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.AssemblyInfoInputs.cache
@@ -24,3 +23,4 @@ D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\refint
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.pdb
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.genruntimeconfig.cache
 D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\ref\metej_stepper_control.dll
+D:\metej_stepper_control\metej_stepper_control\obj\Release\net6.0-windows\metej_stepper_control.Form1.resources
